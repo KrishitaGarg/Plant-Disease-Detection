@@ -1,0 +1,1 @@
+Download the trained plant disease detection model from: https://drive.google.com/file/d/1-0dnx4HayW0XyfRbYRJdVP2oxXDPVKZ0/view?usp=sharing
